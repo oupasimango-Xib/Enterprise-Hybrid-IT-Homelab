@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server 2022">
+  <img src="https://img.shields.io/badge/Windows_Server_2025-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server 2022">
   <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft-365&logoColor=white" alt="Microsoft 365">
   <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Entra ID">
   <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft-intune&logoColor=white" alt="Intune">
@@ -52,7 +52,7 @@ This homelab simulates a **real-world enterprise hybrid IT environment**, integr
 
 | VM | OS | RAM | Storage | Role |
 |----|----|-----|---------|------|
-| **DC01** | Windows Server 2022 | 4 GB | 80 GB | Domain Controller, DNS, DHCP, Entra Connect |
+| **DC01** | Windows Server 2025 | 4 GB | 80 GB | Domain Controller, DNS, DHCP, Entra Connect |
 | **CLIENT01** | Windows 11 Enterprise | 4 GB | 64 GB | Domain-joined client, Intune-enrolled |
 
 ### Network Topology
